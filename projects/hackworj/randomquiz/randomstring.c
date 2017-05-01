@@ -1,0 +1,4 @@
+
+To develop the random tester I started by looking at the if statements in the testme function.  I found the order of the cases that needed to happen for the error message to display.  Error would only display when the state equals 9 and the random string is'reset'.  I then looked at the progression of random chars that needed to be displayed to for state to equal 9.
+
+The function inputChar() randomly chooses a char from this list: "[({ ax})]c".  I chose those char because it encompases all the char needed for the if loops and one that is not.  InputString() randmomly chooses a string of 5 lowercase letters.  
