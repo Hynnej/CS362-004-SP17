@@ -1,0 +1,23 @@
+Bug Report #1
+Card Effected: 
+Great Hall
+ 
+Summary:
+Number of actions is not changed as expected.
+ 
+Priority: medium - game can still be played, although score will be slightly off.
+ 
+Details:  The number of actions is increased by 2 instead of 1.
+ 
+ 
+Bug Report #2 
+Card Effected: 
+Adventurer
+ 
+Summary:
+Ending number of cards in hand is wrong
+ 
+Priority:
+Medium - game can still be played, although the hand count for players may be off.
+ 
+Details: The number of cards in hand were off by 1 each time.
